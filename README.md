@@ -1,4 +1,4 @@
-![](https://www.home-covid19.org/android-chrome-192x192.png)
+![](https:/home-covid19.org/android-chrome-192x192.png)
 
 # WeAd@Home-Covid19.org
 
