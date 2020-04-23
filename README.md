@@ -1,4 +1,4 @@
-![](https:/home-covid19.org/android-chrome-192x192.png)
+![](https://home-covid19.org/android-chrome-192x192.png)
 
 # WeAd@Home-Covid19.org
 
@@ -89,7 +89,7 @@ Follow these steps to have your FAH client running on ACI:
     FAHCLIENT_TEAM=253920 
     FAHCLIENT_USER=<USER>
    ```
-![](https://www.home-covid19.org/github/aci-powershell.png)
+![](https://home-covid19.org/github/aci-powershell.png)
    
 
 ## Integration with your Microsoft Teams Organization
